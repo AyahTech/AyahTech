@@ -1,5 +1,6 @@
-### Hi there 👋
 ![alt text](1704112139946.jpeg)
+
+
 <!--
 **AyahTech/AyahTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
